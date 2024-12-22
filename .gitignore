@@ -25,4 +25,4 @@ dist-ssr
 *.sw?
 
 # Custom files
-gemini.js
+.env
