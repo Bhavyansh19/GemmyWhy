@@ -1,10 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # GemmyWhy
-# GemmyWhy
+
+**GemmyWhy** is the fun, quirky, and slightly sassy clone of Gemini that nobody saw coming but everybody needs. Why? Because it’s not just a clone—it’s a vibe. Think of it as Gemini’s hilarious sibling who isn’t afraid to steal the spotlight and crack a joke while doing it.
+
+## Features
+
+- **Sleek Interface:** Just like Gemini, but with more personality.
+- **Optimized Performance:** Because nobody likes a slowpoke, even if it’s funny.
+- **Customizable Options:** Make it your own—seriously, we’re all about personal touches.
+- **Easter Eggs:** Because who doesn’t love hidden surprises?
+- **Humor Built-In:** It’s not just a name; it’s a way of life.
